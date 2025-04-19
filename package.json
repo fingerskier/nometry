@@ -1,0 +1,11 @@
+{
+  "name": "nometry",
+  "version": "2025.4.1",
+  "description": "various maths objects &amp; decorators",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "fingerskier",
+  "license": "MIT"
+}
